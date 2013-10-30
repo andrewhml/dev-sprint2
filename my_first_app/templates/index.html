@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 {% block body %}
-    <h1>Welcome!</h1>
+    <h1>Hello {{session['username']}}</h1>
     {% if 'username' in session %}
-        <p>Welcome back {{session['username']}}!</p>
+        <p>Welcome to the automagic StyleTile creator!</p>
         <form action="{{url_for('index')}}" method="post">
             <input type="submit" name="logout" value="logout" />
         </form>

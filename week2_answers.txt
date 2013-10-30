@@ -1,2 +1,8 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Andrew Lee
+
+# App idea 1: Contacts directory, with the ability to add new contacts from any device.
+
+# App idea 2: Movie Stream. Stream the latest movie from my computer.
+
+# App idea 3: Style tile creator. Based on the style tiles from front end development. An automated way to create style tiles. Includes color pickers, ability to upload photos, and font pickers.
